@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning react,redux toolkit,express,MonogDB,Ai,NodeJs,Asp.net
 
-- 👯 I’m looking to collaborate on **make a project that simulates Facebook to be the first in the world**
+- 👯 I’m looking to collaborate on *make a project that simulates Facebook to be the first in the world*
 
 - 🤝 I’m looking for help with How to become perfect in programming
 
