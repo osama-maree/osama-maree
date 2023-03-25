@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Osama</h1>
 <h3 align="center">A passionate Computer Systems Engineer and full stack web Developer</h3>
 
-- 🌱 I’m currently learning **react,express,MonogDB,Ai,NodeJs,Asp.net**
+- 🌱 I’m currently learning react,redux toolkit,express,MonogDB,Ai,NodeJs,Asp.net
 
 - 👯 I’m looking to collaborate on **make a project that simulates Facebook to be the first in the world**
 
-- 🤝 I’m looking for help with **How to become perfect in programming**
+- 🤝 I’m looking for help with How to become perfect in programming
 
 - 👨‍💻 All of my projects are available at [https://github.com/osama-maree](https://github.com/osama-maree)
 
-- 💬 Ask me about **react,nodeJs,Orm sequelize**
+- 💬 Ask me about react,nodeJs,Orm sequelize,redux,dfs,bfs,lfs,ids,etc.....
 
-- 📫 How to reach me **osamamarei2001@gmail.com**
+- 📫 How to reach me osamamarei2001@gmail.com
 
-- ⚡ Fun fact **Very calm and serious at the same time**
+- ⚡ Fun fact Very calm and serious at the same time
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
