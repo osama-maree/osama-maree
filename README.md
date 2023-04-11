@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/osama-maree](https://github.com/osama-maree)
 
-- 💬 Ask me about react,nodeJs,Orm sequelize,redux,dfs,bfs,lfs,ids,etc.....
+- 💬 Ask me about react, nodeJs, Orm sequelize, redux, dfs, A*, greedy search, bfs, lfs, ids, etc.....
 
 - 📫 How to reach me osamamarei2001@gmail.com
 
