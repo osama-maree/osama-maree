@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/osama-maree](https://github.com/osama-maree)
 
 - 💬 Ask me about react, nodeJs, Orm sequelize, redux, dfs, A*, greedy search, bfs, lfs, ids, etc.....
-- 💬 here is my CV <a href="https://drive.google.com/file/d/11mAYCuq3Rx9z3T79uzOr_6l_AJOCpzX9/view?usp=sharing" target="_blank">Osama Maree </a>
+- 💬 here is my CV <a href="https://drive.google.com/file/d/11mAYCuq3Rx9z3T79uzOr_6l_AJOCpzX9/view?usp=sharing" target="blank">Osama Maree </a>
 - 📫 How to reach me osamamarei2001@gmail.com
 
 - ⚡ Fun fact Very calm and serious at the same time
