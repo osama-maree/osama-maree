@@ -1,4 +1,4 @@
-<h1 align="center text-success">Hi 👋, I'm Osama</h1>
+<h1 align="center" class="text-success">Hi 👋, I'm Osama</h1>
 <h3 align="center">A passionate Computer Systems Engineer and full stack web Developer</h3>
 
 - 🌱 I’m currently learning react,redux toolkit,express,MonogDB,Ai,NodeJs,Asp.net
