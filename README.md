@@ -1,4 +1,4 @@
-<img src="https://github.com/osama-maree/animation/blob/main/index.html" alt="Animation" />
+
 
 <h1 align="center" style="color:green;" >Hi 👋, I'm Osama</h1>
 <h3 align="center">A passionate Computer Systems Engineer and full stack web Developer</h3>
