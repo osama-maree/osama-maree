@@ -19,7 +19,7 @@
 - 📫 How to reach me osamamarei2001@gmail.com           
 - ⚡ Fun fact Very calm and serious at the same time
 <p align="center">
-<imt src="https://github.com/osama-maree/osama-maree/assets/108696087/5b44ac0c-65f8-447a-bbda-a62259962481" alt="img"/>
+<img align="center" src="https://github.com/osama-maree/osama-maree/assets/108696087/5b44ac0c-65f8-447a-bbda-a62259962481" alt="img"/>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
