@@ -12,6 +12,7 @@
 - 💬 here is my CV <a  href="https://drive.google.com/file/d/17ODPBj50Ds_hCbOP_-UFJQp4yi7RGsk9/view?usp=sharing" >Osama Maree </a>
 - 📫 How to reach me osamamarei2001@gmail.com           
 - ⚡ Fun fact Very calm and serious at the same time
+<br/>
 <div align="center" >
 <img src="https://github.com/osama-maree/osama-maree/assets/108696087/5b44ac0c-65f8-447a-bbda-a62259962481" alt="img"/>
 </div>
