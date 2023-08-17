@@ -6,8 +6,7 @@
 
 
 <hr/>
- - 🌱🤝 I’m currently learning react,redux toolkit,express,MonogDB,Ai,NodeJs,Asp.net
-
+- 🌱🤝 I’m currently learning react,redux toolkit,express,MonogDB,Ai,NodeJs,Asp.net
 - 👯👨‍💻 All of my projects are available at [https://github.com/osama-maree](https://github.com/osama-maree)
 
 - 💬 Ask me about react, nodeJs, Orm sequelize, redux, dfs, A*, greedy search, bfs, lfs, ids, etc.....
