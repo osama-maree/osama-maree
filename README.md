@@ -11,7 +11,7 @@
 <li>👯👨‍💻 All of my projects are available at <a href="https://github.com/osama-maree?tab=repositories" target="_blank">Projects</a></li>
 <li> 💬 Ask me about react, nodeJs, Orm sequelize, redux, dfs, A*, greedy search, bfs, lfs, ids, etc.....
 <li>💬 here is my CV <a  href="https://drive.google.com/file/d/17ODPBj50Ds_hCbOP_-UFJQp4yi7RGsk9/view?usp=sharing" >Osama Maree </a></li>
-<li>📫 How to reach me osamamarei2001@gmail.com   </li>        
+<li>📫 How to reach me <a href="mailto:osamamarei2001@gmail.com">osamamarei2001@gmail.com </a>  </li>        
 <li>⚡ Fun fact Very calm and serious at the same time</li>
 </ul>
 
