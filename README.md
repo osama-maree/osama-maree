@@ -6,13 +6,14 @@
 
 
 <hr/>
-- 🌱🤝 I’m currently learning react,redux toolkit,express,MonogDB,Ai,NodeJs,Asp.net
-- 👯👨‍💻 All of my projects are available at [https://github.com/osama-maree](https://github.com/osama-maree)
-- 💬 Ask me about react, nodeJs, Orm sequelize, redux, dfs, A*, greedy search, bfs, lfs, ids, etc.....
-- 💬 here is my CV <a  href="https://drive.google.com/file/d/17ODPBj50Ds_hCbOP_-UFJQp4yi7RGsk9/view?usp=sharing" >Osama Maree </a>
-- 📫 How to reach me osamamarei2001@gmail.com           
-- ⚡ Fun fact Very calm and serious at the same time
-
+<ul>
+<li> 🌱🤝 I’m currently learning react,redux toolkit,express,MonogDB,Ai,NodeJs,Asp.net</li>
+<li>👯👨‍💻 All of my projects are available at [https://github.com/osama-maree](https://github.com/osama-maree)</li>
+<li> 💬 Ask me about react, nodeJs, Orm sequelize, redux, dfs, A*, greedy search, bfs, lfs, ids, etc.....
+<li>💬 here is my CV <a  href="https://drive.google.com/file/d/17ODPBj50Ds_hCbOP_-UFJQp4yi7RGsk9/view?usp=sharing" >Osama Maree </a></li>
+<li>📫 How to reach me osamamarei2001@gmail.com   </li>        
+<li>⚡ Fun fact Very calm and serious at the same time</li>
+</ul>
 
 <hr/>
 
