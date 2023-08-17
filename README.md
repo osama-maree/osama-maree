@@ -5,19 +5,16 @@
 ![كرتون-متحرك-انمي-متحرك-صور-متحركة-خلفيات-متحركة1](https://github.com/osama-maree/osama-maree/assets/108696087/561dc92b-2609-410e-a49f-93f8c63b3213)
 
 
+<hr/>
+- 🌱🤝 I’m currently learning react,redux toolkit,express,MonogDB,Ai,NodeJs,Asp.net
 
-- 🌱 I’m currently learning react,redux toolkit,express,MonogDB,Ai,NodeJs,Asp.net
-
-- 👯 I’m looking to collaborate on *make a project that simulates Facebook to be the first in the world*
-
-- 🤝 I’m looking for help with How to become perfect in programming 
-
-- 👨‍💻 All of my projects are available at [https://github.com/osama-maree](https://github.com/osama-maree)
+- 👯👨‍💻 All of my projects are available at [https://github.com/osama-maree](https://github.com/osama-maree)
 
 - 💬 Ask me about react, nodeJs, Orm sequelize, redux, dfs, A*, greedy search, bfs, lfs, ids, etc.....
 - 💬 here is my CV <a  href="https://drive.google.com/file/d/17ODPBj50Ds_hCbOP_-UFJQp4yi7RGsk9/view?usp=sharing" >Osama Maree </a>
 - 📫 How to reach me osamamarei2001@gmail.com           
 - ⚡ Fun fact Very calm and serious at the same time
+<hr/>
 <p >
 <img align="right" src="https://github.com/osama-maree/osama-maree/assets/108696087/5b44ac0c-65f8-447a-bbda-a62259962481" alt="img"/>
 </p>
