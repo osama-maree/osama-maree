@@ -12,7 +12,10 @@
 - 💬 here is my CV <a  href="https://drive.google.com/file/d/17ODPBj50Ds_hCbOP_-UFJQp4yi7RGsk9/view?usp=sharing" >Osama Maree </a>
 - 📫 How to reach me osamamarei2001@gmail.com           
 - ⚡ Fun fact Very calm and serious at the same time
-
+<div align="center" >
+<img src="https://github.com/osama-maree/osama-maree/assets/108696087/5b44ac0c-65f8-447a-bbda-a62259962481" alt="img"/>
+</div>
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/osama-maree-7996b3239/" target="_blank" width="200px"   background-color:"#f5f5f5;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/osama-maree-7996b3239/" height="30" width="40" /></a>
@@ -32,6 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osama-maree&show_icons=true&locale=en" alt="osama-maree" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osama-maree&" alt="osama-maree" /></p>
 
-<div align="center" >
-<img src="https://github.com/osama-maree/osama-maree/assets/108696087/5b44ac0c-65f8-447a-bbda-a62259962481" alt="img"/>
-</div>
+
