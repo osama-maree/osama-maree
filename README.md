@@ -35,5 +35,5 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osama-maree&" alt="osama-maree" /></p>
 
 <p >
-<img align="right" src="https://github.com/osama-maree/osama-maree/assets/108696087/5b44ac0c-65f8-447a-bbda-a62259962481" alt="img"/>
+<img align="center" src="https://github.com/osama-maree/osama-maree/assets/108696087/5b44ac0c-65f8-447a-bbda-a62259962481" alt="img"/>
 </p>
