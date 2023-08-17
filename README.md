@@ -14,7 +14,7 @@
 - ⚡ Fun fact Very calm and serious at the same time
 
 
-<br/>
+<hr/>
 
 <div align="center" >
 <img src="https://github.com/osama-maree/osama-maree/assets/108696087/5b44ac0c-65f8-447a-bbda-a62259962481" alt="img"/>
