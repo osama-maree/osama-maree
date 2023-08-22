@@ -21,7 +21,7 @@
 <img src="https://github.com/osama-maree/osama-maree/assets/108696087/5b44ac0c-65f8-447a-bbda-a62259962481" alt="img"/>
 </div>
 <hr/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="font-family: 'Lucida Console';">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/osama-maree-7996b3239/" target="_blank" width="200px"   background-color:"#f5f5f5;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/osama-maree-7996b3239/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100070606794397" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100070606794397" height="30" width="40" /></a>
