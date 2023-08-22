@@ -28,8 +28,7 @@
 <a href="https://instagram.com/osama._.mahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osama._.mahmoud" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCN9AoL2JL-XmQcEB_baLr6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucn9aol2jl-xmqceb_balr6w" height="30" width="40" /></a>
 <a href="https://leetcode.com/Osama-Maree/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/osama-maree/" height="30" width="40" /></a>
-
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" alt="React MUI"  style="max-width: 100%;"></a>                            
+              
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
