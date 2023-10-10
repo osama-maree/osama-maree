@@ -1,11 +1,14 @@
 <h1 align="center" style="color:green;" >Hi 👋, I'm Osama</h1> 
-<div align="right">[![HitCount](https://hits.dwyl.com/osama-maree/osama-maree.svg)](https://hits.dwyl.com/osama-maree/osama-maree) </div>
+
 <h3 align="center">A passionate Computer Systems Engineer and full stack web Developer</h3>
 
 ![كرتون-متحرك-انمي-متحرك-صور-متحركة-خلفيات-متحركة1](https://github.com/osama-maree/osama-maree/assets/108696087/561dc92b-2609-410e-a49f-93f8c63b3213)
 
 
 <hr/>
+
+[![HitCount](https://hits.dwyl.com/osama-maree/osama-maree.svg)](https://hits.dwyl.com/osama-maree/osama-maree)
+
 <ul>
 <li> 🌱🤝 I’m currently learning TypeScript & Web Scraping & Graph-QL</li>
 <li>👯👨‍💻 All of my projects are available at <a href="https://github.com/osama-maree?tab=repositories" target="_blank">Projects</a></li>
