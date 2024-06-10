@@ -10,7 +10,7 @@
 [![HitCount](https://hits.dwyl.com/osama-maree/osama-maree.svg)](https://hits.dwyl.com/osama-maree/osama-maree)
 
 <ul>
-<li> 🌱🤝 I’m currently learning TypeScript & Web Scraping & Graph-QL</li>
+<li> 🌱🤝 I’m currently learning QA</li>
 <li>👯👨‍💻 All of my projects are available at <a href="https://github.com/osama-maree?tab=repositories" target="_blank">Projects</a></li>
 <li> 💬 Ask me about react, nodeJs, Orm sequelize, redux, dfs, A*, greedy search, bfs, lfs, ids, etc.....
 <li>💬 here is my CV <a  href="https://drive.google.com/file/d/17ODPBj50Ds_hCbOP_-UFJQp4yi7RGsk9/view?usp=sharing" >Osama Maree </a></li>
