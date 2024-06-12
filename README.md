@@ -92,6 +92,9 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MUI-000?style=for-the-badge&logo=MUI&logoColor=white&labelColor=blue&color=black)
+![Static Badge](https://img.shields.io/badge/PASTMAN-000?style=for-the-badge&logo=postman&logoColor=blue&labelColor=white&color=black)
+![Static Badge](https://img.shields.io/badge/JEST-000?style=for-the-badge&logo=jest&logoColor=red&labelColor=black&color=green)
+![Static Badge](https://img.shields.io/badge/cypress-000?style=for-the-badge&logo=cypress&logoColor=white&labelColor=black&color=green)
 
 
 <br/>
