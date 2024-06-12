@@ -64,7 +64,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: osamamarei2001@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [![Discord]]
+ 💬 &emsp; Ask me about anything discord: osamamaree
 
 </p>
 
