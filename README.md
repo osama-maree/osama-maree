@@ -18,7 +18,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Osama Maree</a></b>
+                <b><a target="_blank" href="https://osama-maree-portfolio.vercel.app/">Osama Maree</a></b>
         </samp>
 </h3>
 
